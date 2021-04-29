@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://nikhil123:nikhil123@cluster0.vsiqi.mongodb.net/nikhil-mern-app?retryWrites=true&w=majority",
+    "jwtSecret": "auth-app"
+}
